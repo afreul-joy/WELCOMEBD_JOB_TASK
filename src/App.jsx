@@ -1,35 +1,60 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState, useEffect } from "react";
+import { Route, Routes } from "react-router-dom";
+import Spinner from "./Components/Spinner/Spinner";
+import Home from "./Pages/Home/Home";
+import NotFound from "./Pages/NotFound/NotFound";
+import Header from "./Components/Header/Header";
+import Footer from "./Components/Footer/Footer";
+import "./App.css";
+import ComingSoon from "./Components/ComingSoon/ComingSoon";
+import ExploreSliderContextProvider from "./context/ExploreSliderContext";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [loading, setLoading] = useState(true);
+  const [retryCount, setRetryCount] = useState(0);
+
+  useEffect(() => {
+    // Function to simulate an asynchronous operation (e.g., fetching data)
+    const fetchData = async () => {
+      try {
+        // Simulate a delay for loading data
+        await new Promise((resolve) => setTimeout(resolve, 1000)); // Change the delay as needed
+
+        // Data loading was successful, stop showing the loading spinner
+        setLoading(false);
+      } catch (error) {
+        console.error("Error loading data:", error);
+
+        // If loading fails, increase the retry count
+        setRetryCount((prevRetryCount) => prevRetryCount + 1);
+      }
+    };
+
+    // Retry loading a maximum of 3 times
+    if (retryCount < 3 && loading) {
+      fetchData();
+    } else {
+      // If max retries are reached or loading is complete, stop showing the loading spinner
+      setLoading(false);
+    }
+  }, [retryCount]);
 
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <ExploreSliderContextProvider>
+        {loading ? <Spinner /> : <Header />}
+        <Routes>
+          <Route path="/" element={loading ? <Spinner /> : <Home />} />
+          <Route
+            path="/coming"
+            element={loading ? <Spinner /> : <ComingSoon />}
+          />
+          <Route path="*" element={loading ? <Spinner /> : <NotFound />} />
+        </Routes>
+        {loading ? <Spinner /> : <Footer />}
+      </ExploreSliderContextProvider>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

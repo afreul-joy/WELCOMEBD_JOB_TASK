@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Ayesha Rahman",
+    "gender": "female",
+    "img": "https://i.ibb.co/QD7GB4L/g1.jpg",
+    "location": "Dhaka, Bangladesh",
+    "languages": ["Bengali", "English"],
+    "rating": 4.8,
+    "details": "Ayesha is a passionate guide who loves to showcase the rich cultural heritage of Bangladesh. She specializes in Dhaka city tours and is fluent in both Bengali and English.",
+    "charge": 10,
+    "review": [
+      {
+        "username": "Neha Khan",
+        "gender": "female",
+        "userimg": "  https://i.ibb.co/sQwGjMT/female30.jpg",
+        "rating": 4.7,
+        "comment": "Kabir's boat tour was fantastic. Saw a lot of birds!"
+      },
+      {
+        "username": "Aisha",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/NNrCnFR/female27.jpg",
+        "rating": 5,
+        "comment": "Ayesha provided an amazing tour of Dhaka. Highly recommended!"
+      },
+      {
+        "username": "Adhora",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/nMV4gbc/female11.jpg",
+        "rating": 4.5,
+        "comment": "Enjoyed my time with Ayesha. She's very knowledgeable."
+      }
+    ]
+  },
+
+  {
+    "name": "Rahim Khan",
+    "gender": "male",
+    "img": "https://i.ibb.co/xGByGZr/b1.jpg",
+    "location": "Sylhet, Bangladesh",
+    "languages": ["Bengali", "Hindi"],
+    "rating": 4.6,
+    "details": "Rahim is an experienced guide in the scenic region of Sylhet. He is well-versed in the history and natural beauty of Sylhet, making him the perfect companion for your trip.",
+    "charge": 11,
+    "review": [
+      {
+        "username": "Mary",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/Jk98rZW/female25.jpg",
+        "rating": 4.8,
+        "comment": "Rahim's knowledge of Sylhet is impressive. Great tour!"
+      },
+      {
+        "username": "Tailor Swift",
+        "gender": "female",
+        "userimg": "    https://i.ibb.co/N9FzCtS/female29.jpg",
+        "rating": 4.2,
+        "comment": "Had a good time exploring Sylhet with Rahim."
+      }
+    ]
+  },
+  {
+    "name": "Farida Islam",
+    "gender": "female",
+    "img": "https://i.ibb.co/MZVP4DG/g2.jpg",
+    "location": "Cox's Bazar, Bangladesh",
+    "languages": ["Bengali", "English"],
+    "rating": 4.9,
+    "details": "Farida is your go-to guide for exploring Cox's Bazar, home to the world's longest natural sea beach. She can take you on an unforgettable beach adventure.",
+    "charge": 15,
+    "review": [
+      {
+        "username": "Alia Butt",
+        "gender": "female",
+        "userimg": "  https://i.ibb.co/y8Dky79/female28.jpg",
+        "rating": 5,
+        "comment": "Farida made my visit to Cox's Bazar incredible!"
+      },
+      {
+        "username": "Linda",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/5T22rVx/female20.jpg",
+        "rating": 4.7,
+        "comment": "The beach tour with Farida was a highlight of my trip."
+      }
+    ]
+  },
+  {
+    "name": "Abdul Karim",
+    "gender": "male",
+    "img": "https://i.ibb.co/nnJJRmV/b2.jpg",
+    "location": "Sundarbans, Bangladesh",
+    "languages": ["Bengali", "Sundarbans Dialect"],
+    "rating": 4.7,
+    "details": "Abdul is a seasoned guide for the Sundarbans mangrove forest. He knows the flora and fauna of this UNESCO World Heritage site like the back of his hand.",
+    "charge": 13,
+    "review": [
+      {
+        "username": "William",
+        "gender": "male",
+        "userimg": "  https://i.ibb.co/NSWNmcR/male10.jpg",
+        "rating": 4.9,
+        "comment": "Abdul's expertise in the Sundarbans is unmatched. Fantastic trip!"
+      },
+      {
+        "username": "Sayma Akter",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/JCNxYK1/female19.jpg",
+        "rating": 4.5,
+        "comment": "Enjoyed the wildlife safari with Abdul. Great guide!"
+      }
+    ]
+  },
+  {
+    "name": "Sadia Ahmed",
+    "gender": "female",
+    "img": "https://i.ibb.co/54hYLBk/g5.jpgg",
+    "location": "Chittagong Hill Tracts, Bangladesh",
+    "languages": ["Bengali", "English", "Chakma"],
+    "rating": 4.5,
+    "details": "Sadia is an expert in guiding travelers through the lush Chittagong Hill Tracts. She is fluent in multiple languages, making her tours accessible to a wide range of tourists.",
+    "charge": 15,
+    "review": [
+      {
+        "username": "Daniel",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/NNrCnFR/female27.jpg",
+        "rating": 4.3,
+        "comment": "Sadia's knowledge of the Hill Tracts is impressive. Had a great time!"
+      },
+      {
+        "username": "Karina ",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/zm9PGYT/female18.jpg",
+        "rating": 4.6,
+        "comment": "Sadia's tour was informative and enjoyable."
+      }
+    ]
+  },
+  {
+    "name": "Nasir Uddin",
+    "gender": "male",
+    "img": "https://i.ibb.co/m9bwpXL/b3.jpg",
+    "location": "Rangamati, Bangladesh",
+    "languages": ["Bengali", "English", "Marma"],
+    "rating": 4.6,
+    "details": "Nasir specializes in tours of Rangamati, known for its stunning lakes and tribal culture. He can provide insights into the local Marma culture and traditions.",
+    "charge": 18,
+    "review": [
+      {
+        "username": "Michael",
+        "gender": "male",
+        "userimg": "https://i.ibb.co/KXxqF3J/male09.jpg",
+        "rating": 4.8,
+        "comment": "Nasir's tour of Rangamati was fantastic. Learned a lot!"
+      },
+      {
+        "username": "Jennifer",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/4ZQYyZJ/female17.jpg",
+        "rating": 4.4,
+        "comment": "Enjoyed the cultural experiences with Nasir."
+      }
+    ]
+  },
+  {
+    "name": "Mithun Ali",
+    "gender": "male",
+    "img": "https://i.ibb.co/RjHwPYG/b4.jpg",
+    "location": "Srimangal, Bangladesh",
+    "languages": ["Bengali", "English"],
+    "rating": 4.8,
+    "details": "Mithun is your guide to Srimangal, the 'Tea Capital of Bangladesh.' He can take you on tea estate tours and introduce you to the world of tea production.",
+    "charge": 12,
+    "review": [
+      {
+        "username": "Christopher",
+        "gender": "male",
+        "userimg": "https://i.ibb.co/WxfMyK9/male08.jpg",
+        "rating": 5,
+        "comment": "Mithun's tea estate tour was amazing. Highly recommended!"
+      },
+      {
+        "username": "Jessica",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/HC94QSz/female16.jpg",
+        "rating": 4.7,
+        "comment": "Learned a lot about tea production with Mithun."
+      }
+    ]
+  },
+  {
+    "name": "Nusrat Khan",
+    "gender": "female",
+    "img": "https://i.ibb.co/nw440gg/g4.jpg",
+    "location": "Kuakata, Bangladesh",
+    "languages": ["Bengali", "English"],
+    "rating": 4.7,
+    "details": "Nusrat specializes in Kuakata, known for its panoramic sea views and serene ambiance. She can help you experience the tranquil beauty of this coastal gem.",
+    "charge": 13,
+    "review": [
+      {
+        "username": "Matthew",
+        "gender": "male",
+        "userimg": "https://i.ibb.co/svqhBCC/male07.jpg",
+        "rating": 4.9,
+        "comment": "Nusrat's tour of Kuakata was breathtaking. Loved it!"
+      },
+      {
+        "username": "Emily",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/user16.jpg",
+        "rating": 4.5,
+        "comment": "Enjoyed the coastal views with Nusrat. Great guide!"
+      }
+    ]
+  },
+
+  {
+    "name": "Tahmina Begum",
+    "gender": "female",
+    "img": "https://i.ibb.co/2tKXm8Q/g3.jpg",
+    "location": "Rajshahi, Bangladesh",
+    "languages": ["Bengali", "English"],
+    "rating": 4.5,
+    "details": "Tahmina is your guide to Rajshahi, famous for its historical sites and mango orchards. She can take you on a cultural and culinary journey in this region.",
+    "charge": 19,
+    "review": [
+      {
+        "username": "Andrew",
+        "gender": "male",
+        "userimg": "  https://i.ibb.co/dpZryGS/male06.jpg",
+        "rating": 4.3,
+        "comment": "Tahmina's tour was informative and delicious. Great food!"
+      },
+      {
+        "username": "Olivia",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/user18.jpg",
+        "rating": 4.6,
+        "comment": "Enjoyed the mango orchard visit with Tahmina."
+      }
+    ]
+  },
+  {
+
+    "name": "Sajjad Hasan",
+    "gender": "male",
+    "img": "https://i.ibb.co/VtY1gHP/b5.jpg",
+    "location": "Barisal, Bangladesh",
+    "languages": ["Bengali", "English"],
+    "rating": 4.6,
+    "details": "Sajjad is your gateway to the picturesque Barisal region, known for its numerous rivers and waterways. He can organize boat tours and nature excursions.",
+    "charge": 17,
+    "review": [
+      {
+        "username": "Sophia",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/rw7M58x/female15.jpg",
+        "rating": 4.7,
+        "comment": "Sajjad's boat tour was relaxing and beautiful. Loved it!"
+      },
+      {
+        "username": "James",
+        "gender": "male",
+        "userimg": "  https://i.ibb.co/nBDZCvW/male05.jpg",
+        "rating": 4.5,
+        "comment": "Enjoyed the nature walk with Sajjad. Great experience!"
+      }
+    ]
+  },
+  {
+
+    "name": "Nadia Akhtar",
+    "gender": "female",
+    "img": "https://i.ibb.co/MZVP4DG/g2.jpg",
+    "location": "Cox's Bazar, Bangladesh",
+    "languages": ["Bengali", "English"],
+    "rating": 4.9,
+    "details": "Nadia is another expert guide in Cox's Bazar, offering a unique perspective on this coastal paradise. She specializes in eco-friendly and adventure tours.",
+    "charge": 14,
+    "review": [
+      {
+        "username": "Jamal Bhuiyan",
+        "gender": "male",
+        "userimg": "https://i.ibb.co/qk2180F/male04.jpg",
+        "rating": 5,
+        "comment": "Nadia's eco-tour was amazing. Loved the adventure!"
+      },
+      {
+        "username": "Ava",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/B3PJtDn/female14.jpg",
+        "rating": 4.7,
+        "comment": "Had a great time exploring Cox's Bazar with Nadia."
+      }
+    ]
+  },
+
+  {
+
+    "name": "Imran Hussain",
+    "gender": "male",
+    "img": "https://i.ibb.co/zXwdwtN/b6.jpg",
+    "location": "Sundarbans, Bangladesh",
+    "languages": ["Bengali", "English"],
+    "rating": 4.8,
+    "details": "Imran is a wildlife enthusiast and guide in the Sundarbans. He can lead you on safaris to spot Bengal tigers and other wildlife in their natural habitat.",
+    "charge": 15,
+    "review": [
+      {
+        "username": "Ethan",
+        "gender": "male",
+        "userimg": "https://i.ibb.co/P173jNb/male03.jpg",
+        "rating": 4.9,
+        "comment": "Imran's wildlife safari was thrilling. Saw Bengal tigers!"
+      },
+      {
+        "username": "Mia",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/SKf3Xbp/female13.jpg",
+        "rating": 4.6,
+        "comment": "Enjoyed the nature experience with Imran. Great guide!"
+      }
+    ]
+  },
+  {
+
+    "name": "Mona Chowdhury",
+    "gender": "female",
+    "img": "https://i.ibb.co/QD7GB4L/g1.jpg",
+    "location": "Bandarban, Bangladesh",
+    "languages": ["Bengali", "English"],
+    "rating": 4.7,
+    "details": "Mona specializes in the scenic Bandarban region, famous for its lush green hills and indigenous communities. She can arrange trekking and cultural experiences.",
+    "charge": 16,
+    "review": [
+      {
+        "username": "Noah",
+        "gender": "male",
+        "userimg": "https://i.ibb.co/vPxfPtD/male02.jpg",
+        "rating": 4.8,
+        "comment": "Mona's trekking tour was amazing. Beautiful landscapes!"
+      },
+      {
+        "username": "Oliver",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/m69Zp09/female12.jpg",
+        "rating": 4.6,
+        "comment": "Enjoyed the cultural experiences with Mona."
+      }
+    ]
+  },
+  {
+
+    "name": "Kabir Rahman",
+    "gender": "male",
+    "img": "https://i.ibb.co/R7dSD6f/b7.jpg",
+    "location": "Khulna, Bangladesh",
+    "languages": ["Bengali", "English"],
+    "rating": 4.6,
+    "details": "Kabir is your guide to Khulna, the gateway to the Sundarbans. He can organize boat tours, bird-watching expeditions, and nature walks in the region.",
+    "charge": 12,
+    "review": [
+      {
+        "username": "Emma",
+        "gender": "female",
+        "userimg": "https://i.ibb.co/nMV4gbc/female11.jpg",
+        "rating": 4.7,
+        "comment": "Kabir's boat tour was fantastic. Saw a lot of birds!"
+      },
+      {
+        "username": "Sifat Khan",
+        "gender": "male",
+        "userimg": "https://i.ibb.co/By2N13N/male01.jpg",
+        "rating": 4.5,
+        "comment": "Enjoyed the nature walk with Kabir. Great guide!"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+/* Default styles for larger displays */
+.searchBG {
+  width: 400px;
+}
+
+.searchField {
+  width: 375px;
+}
+
+/* Media query for small displays */
+@media only screen and (max-width: 600px) {
+  .searchBG {
+    width: 300px;/* Make the background div full width on small screens */
+  }
+
+  .searchField {
+    width: 275px;/* Make the search field div full width on small screens */
+  }
+}

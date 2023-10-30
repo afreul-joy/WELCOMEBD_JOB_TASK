@@ -1,0 +1,315 @@
+[
+  {
+    "id": 1,
+    "location": "Tanguar Haor",
+    "img": [
+      "https://i.ibb.co/F8KLrjs/Tanguar-Haor.jpg",
+      "https://i.ibb.co/LCVqGyr/Bandarban-Mountains-1.jpg",
+      "https://i.ibb.co/d4LtDxW/Bandarban-Mountains-2.jpg",
+      "https://i.ibb.co/gJGqvnF/Bandarban-Mountains-3.jpg"
+    ],
+    "tour_duration": "Less than 6 hours",
+    "originalPrice": 200,
+    "discountedPrice": 150,
+    "discountPercent": 15,
+    "place_description": "Tanguar Haor is a unique wetland ecosystem and a UNESCO World Heritage Site. It is known for its stunning landscapes and diverse wildlife.",
+    "tour_details": "Explore the haor on a traditional boat, visit nearby villages, and enjoy a picnic by the serene waters.",
+    "packages": ["Day Tour", "Kid Friendly", "Young", "Student"],
+    "categories": ["Eco Tours", "Boat Rental", "Outdoor Activities"],
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "location": "Sajek",
+    "img": [
+      "https://i.ibb.co/C7QNqpz/Sajek-Valley.jpg",
+      "https://i.ibb.co/sajek-1.jpg",
+      "https://i.ibb.co/3mGs7bs/sajek-2.jpg",
+      "https://i.ibb.co/qg82rM4/sajek-3.jpg"
+    ],
+    "tour_duration": "12 - 24 hours",
+    "originalPrice": 500,
+    "discountedPrice": 400,
+    "discountPercent": 20,
+    "place_description": "Sajek Valley is a picturesque hill station located in the Chittagong Hill Tracts. It offers breathtaking views of lush green hills and valleys.",
+    "tour_details": "Stay in cozy cottages, go trekking in the surrounding hills, and savor delicious local cuisine.",
+    "packages": ["Family", "Couple", "Hiking and camping", "Young"],
+    "categories": ["Adventure", "Hiking and camping", "Outdoor Activities"],
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "location": "Cox's Bazar",
+    "img": [
+      "https://i.ibb.co/V3m2w5w/Cox-Bazar.jpg",
+      "https://i.ibb.co/rG23106/cox-bazar-1.jpg",
+      "https://i.ibb.co/x5W9LsS/cox-bazar-2.jpg",
+      "https://i.ibb.co/yRb3Xqd/cox-bazar-3.jpg",
+      "https://i.ibb.co/VvYHsC0/cox-bazar-4.jpg"
+    ],
+    "tour_duration": "24+ hours",
+    "originalPrice": 300,
+    "discountedPrice": 225,
+    "discountPercent": 13,
+    "place_description": "Cox's Bazar is renowned for having the longest natural sea beach in the world. It is a popular tourist destination known for its sandy shores and vibrant atmosphere.",
+    "tour_details": "Relax on the beach, enjoy water sports, and explore nearby attractions like Himchari National Park.",
+    "packages": ["Family", "Couple", "Water Parks", "Boat Rental", "Nightlife"],
+    "categories": ["Beach Activity", "Water Parks", "Nightlife"],
+    "rating": 4
+  },
+
+  {
+    "id": 4,
+    "location": "Rangamati",
+    "img": [
+      "https://i.ibb.co/bX0cbdp/Rangamati.jpg",
+      "https://i.ibb.co/2PXyY5D/Rangamati-1.jpg",
+      "https://i.ibb.co/Mnpm6tt/Rangamati-3.jpg",
+      "https://i.ibb.co/YPWsqPf/Rangamati-4.jpg"
+    ],
+    "tour_duration": "12 - 24 hours",
+    "originalPrice": 400,
+    "discountedPrice": 300,
+    "discountPercent": 25,
+    "place_description": "Rangamati is a scenic hill district with beautiful lakes and lush forests. It is a paradise for nature lovers.",
+    "tour_details": "Take a boat ride on Kaptai Lake, visit tribal villages, and experience the unique culture of the indigenous people.",
+    "packages": ["Adventure", "Young"],
+    "categories": ["Adventure", "Boat Rental", "Outdoor Activities"],
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "location": "Lalbagh Fort",
+    "img": [
+      "https://i.ibb.co/Qn59RLq/Lal-Bagh-Fort.jpg",
+      "https://i.ibb.co/9pzD2Xq/Lalbagh-Fort-2.jpg",
+      "https://i.ibb.co/3dVPkhs/Lalbagh-Fort-3.jpg"
+    ],
+    "tour_duration": "Less than 6 hours",
+    "originalPrice": 150,
+    "discountedPrice": 112,
+    "discountPercent": 35,
+    "place_description": "Lalbagh Fort is a historical site in Dhaka, known for its stunning architecture and rich history.",
+    "tour_details": "Explore the fort's complex, visit the museum, and learn about its Mughal heritage.",
+    "packages": ["Day Tour", "Young", "Student"],
+    "categories": ["Temples", "Outdoor Activities"],
+    "rating": 3
+  },
+  {
+    "id": 6,
+    "location": "Saint Martin's Island",
+    "img": [
+      "https://i.ibb.co/kGQ7MR1/Saint-Martins-Island.jpg",
+      "https://i.ibb.co/nmLJkCP/Saint-Martin-s-Island-1.jpg",
+      "https://i.ibb.co/nQwnk3Y/Saint-Martin-s-Island-2.jpg",
+      "https://i.ibb.co/B3HKvvM/Saint-Martin-s-Island-3.jpg"
+    ],
+    "tour_duration": "24+ hours",
+    "originalPrice": 400,
+    "discountedPrice": 300,
+    "discountPercent": 15,
+    "place_description": "Saint Martin's Island is a tropical paradise with pristine beaches and crystal-clear waters. It's a perfect getaway for beach lovers.",
+    "tour_details": "Relax on the beach, go snorkeling or scuba diving, and savor fresh seafood at beachside restaurants.",
+    "packages": ["Beach Activity", "Water Parks", "Boat Rental"],
+    "categories": ["Beach Activity", "Water Parks"],
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "location": "Sundarbans",
+    "img": [
+      "https://i.ibb.co/mbf1jRZ/Sundarbans.jpg",
+      "https://i.ibb.co/44s9tbW/Sundarbans-2.jpg",
+      "https://i.ibb.co/KqmNgzm/Sundarbans-3.png"
+    ],
+    "tour_duration": "24+ hours",
+    "originalPrice": 450,
+    "discountedPrice": 335,
+    "discountPercent": 15,
+    "place_description": "The Sundarbans is the largest mangrove forest in the world and home to the Bengal tiger. It offers a unique and adventurous experience for nature enthusiasts.",
+    "tour_details": "Take a boat safari to spot wildlife, explore the dense mangrove forest, and learn about conservation efforts.",
+    "packages": ["Adventure", "Eco Tours", "Boat Rental"],
+    "categories": ["Adventure", "Eco Tours", "Boat Rental"],
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "location": "Kuakata Beach",
+    "img": [
+      "https://i.ibb.co/q0dhHYr/Kuakata-Beach.jpg",
+      "https://i.ibb.co/JxVPYnx/Kuakata-Beach-3.jpg",
+      "https://i.ibb.co/bvWXvyC/Kuakata-Beach-2.jpg"
+    ],
+    "tour_duration": "Less than 6 hours",
+    "originalPrice": 125,
+    "discountedPrice": 93,
+    "discountPercent": 25,
+    "place_description": "Kuakata Beach is known as the 'Daughter of the Sea' and is famous for its stunning sunset views over the Bay of Bengal.",
+    "tour_details": "Relax on the beach, watch the sunset, and visit nearby Buddhist temples.",
+    "packages": ["Family", "Couple", "Day Tour", "Kid Friendly", "Student"],
+    "categories": ["Beach Activity", "Temples", "Outdoor Activities"],
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "location": "Bandarban Mountains",
+    "img": [
+      "https://i.ibb.co/fNBTX3s/Bandarban-Mountains.jpg",
+      "https://i.ibb.co/LCVqGyr/Bandarban-Mountains-1.jpg",
+      "https://i.ibb.co/d4LtDxW/Bandarban-Mountains-2.jpg",
+      "https://i.ibb.co/gJGqvnF/Bandarban-Mountains-3.jpg"
+    ],
+    "tour_duration": "12 - 24 hours",
+    "originalPrice": 350,
+    "discountedPrice": 262,
+    "discountPercent": 25,
+    "place_description": "Bandarban is a mountainous region with lush forests, waterfalls, and indigenous tribal communities. It's a haven for trekkers and adventure seekers.",
+    "tour_details": "Go trekking in the Chimbuk Hill area, visit tribal villages, and experience the local culture.",
+    "packages": ["Adventure", "Hiking and camping"],
+    "categories": ["Adventure", "Hiking and camping", "Outdoor Activities"],
+    "rating": 4
+  },
+  {
+    "id": 10,
+    "location": "Srimangal",
+    "img": [
+      "https://i.ibb.co/Chy1JVF/Srimangal.jpg",
+      "https://i.ibb.co/5Wwpr0n/Srimangal-2.jpg",
+      "https://i.ibb.co/gDmkhfC/Srimangal-3.jpg"
+    ],
+    "tour_duration": "Less than 6 hours",
+    "originalPrice": 125,
+    "discountedPrice": 93,
+    "discountPercent": 20,
+    "place_description": "Srimangal is the 'Tea Capital of Bangladesh' and is known for its lush tea gardens and serene landscapes.",
+    "tour_details": "Visit tea estates, go for a tea tasting tour, and explore Lawachara National Park.",
+    "packages": [
+      "Family",
+      "Couple",
+      "Day Tour",
+      "Kid Friendly",
+      "Young",
+      "Student"
+    ],
+    "categories": ["Eco Tours", "Outdoor Activities"],
+    "rating": 4
+  },
+  {
+    "id": 11,
+    "location": "Mahasthangarh",
+    "img": [
+      "https://i.ibb.co/cbB0bGW/Mahasthangarh.jpg",
+      "https://i.ibb.co/JBBtWs2/Mahasthangarh-2.jpg",
+      "https://i.ibb.co/T4qzXXV/Mahasthangarh-3.jpg"
+    ],
+    "tour_duration": "Less than 6 hours",
+    "originalPrice": 125,
+    "discountedPrice": 93,
+    "discountPercent": 25,
+    "place_description": "Mahasthangarh is an ancient archaeological site and a window into Bangladesh's rich history. It's a must-visit for history buffs.",
+    "tour_details": "Explore the ancient ruins, visit the museum, and learn about the history of Pundranagara.",
+    "packages": ["Family", "Couple", "Day Tour", "Young", "Student"],
+    "categories": ["Temples", "Outdoor Activities"],
+    "rating": 3
+  },
+  {
+    "id": 12,
+    "location": "Jaflong",
+    "img": [
+      "https://i.ibb.co/DLh6Xb0/Jaflong.jpg",
+      "https://i.ibb.co/hyKWZbZ/Jaflong-3.jpg",
+      "https://i.ibb.co/CP4047M/Jaflong-2.jpg"
+    ],
+    "tour_duration": "Less than 6 hours",
+    "originalPrice": 150,
+    "discountedPrice": 112,
+    "discountPercent": 35,
+    "place_description": "Jaflong is a scenic border town with the Khasi hills on one side and the Dawki river on the other. It's known for its natural beauty.",
+    "tour_details": "Visit the Dawki river, go for a boat ride, and explore the Khasi villages.",
+    "packages": [
+      "Family",
+      "Couple",
+      "Day Tour",
+      "Kid Friendly",
+      "Young",
+      "Student"
+    ],
+    "categories": ["Adventure", "Boat Rental", "Outdoor Activities"],
+    "rating": 4
+  },
+  {
+    "id": 13,
+    "location": "Rangamati Special",
+    "img": [
+      "https://i.ibb.co/d4LtDxW/Bandarban-Mountains-2.jpg",
+      "https://i.ibb.co/gJGqvnF/Bandarban-Mountains-3.jpg",
+      "https://i.ibb.co/bX0cbdp/Rangamati.jpg",
+      "https://i.ibb.co/bX0cbdp/Rangamati.jpg"
+    ],
+    "tour_duration": "12 - 24 hours",
+    "originalPrice": 500,
+    "discountedPrice": 375,
+    "discountPercent": 25,
+    "place_description": "Boga Lake is a high-altitude lake nestled in the Bandarban Hills. It's a trekker's paradise and offers stunning views of the surrounding landscape.",
+    "tour_details": "Embark on a challenging trek to reach Boga Lake, camp by the lake, and stargaze at night.",
+    "packages": ["Hiking and camping", "Young"],
+    "categories": ["Hiking and camping", "Outdoor Activities"],
+    "rating": 4
+  },
+  {
+    "id": 14,
+    "location": "Panam Nagar",
+    "img": [
+      "https://i.ibb.co/LpHyS7b/Panam-Nagar.jpg",
+      "https://i.ibb.co/vsY1r0p/Panam-Nagar-2.jpg",
+      "https://i.ibb.co/VpktYSw/Panam-Nagar-3.jpg"
+    ],
+    "tour_duration": "Less than 6 hours",
+    "originalPrice": 100,
+    "discountedPrice": 75,
+    "discountPercent": 35,
+    "place_description": "Panam Nagar is a historic ghost town in Sonargaon, known for its well-preserved colonial-era buildings.",
+    "tour_details": "Explore the old buildings, learn about the history, and take a walk through the charming streets.",
+    "packages": ["Family", "Couple", "Day Tour", "Young", "Student"],
+    "categories": ["Temples", "Outdoor Activities"],
+    "rating": 4
+  },
+  {
+    "id": 15,
+    "location": "Cox's Bazar Girls Exclusive",
+    "img": [
+      "https://i.ibb.co/zFc1s3B/cox.jpg",
+      "https://i.ibb.co/x5W9LsS/cox-bazar-2.jpg",
+      "https://i.ibb.co/yRb3Xqd/cox-bazar-3.jpg",
+      "https://i.ibb.co/VvYHsC0/cox-bazar-4.jpg"
+    ],
+    "tour_duration": "Less than 6 hours",
+    "originalPrice": 200,
+    "discountedPrice": 175,
+    "discountPercent": 15,
+    "place_description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south.",
+    "tour_details": "Relax on the beach, enjoy water sports, and explore nearby attractions like Himchari National Park.",
+    "packages": ["Girls"],
+    "categories": ["Beach Activity", "Water Parks", "Nightlife"],
+    "rating": 4
+  },
+  {
+    "id": 16,
+    "location": "Sajek Girls Exclusive",
+    "img": [
+      "https://i.ibb.co/LQ5j6TY/Sajek-Valley.jpg",
+      "https://i.ibb.co/szMC7Pf/sajek-1.jpg",
+      "https://i.ibb.co/3mGs7bs/sajek-2.jpg",
+      "https://i.ibb.co/qg82rM4/sajek-3.jpg"
+    ],
+    "tour_duration": "Less than 6 hours",
+    "originalPrice": 300,
+    "discountedPrice": 275,
+    "discountPercent": 15,
+    "place_description": "Sajek Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District.",
+    "tour_details": "Stay in cozy cottages, go trekking in the surrounding hills, and savor delicious local cuisine.",
+    "packages": ["Girls"],
+    "categories": ["Adventure", "Hiking and camping", "Outdoor Activities"],
+    "rating": 4
+  }
+]
