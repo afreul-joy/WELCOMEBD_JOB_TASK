@@ -11,7 +11,7 @@ const GuideSlider = () => {
 
   useEffect(() => {
     axios
-      .get("/public/guideData.json")
+      .get("/guideData.json")
       .then((response) => {
         // setGuideDataList(guideData);
         setGuideDataList(response.data);

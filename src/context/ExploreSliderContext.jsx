@@ -9,7 +9,7 @@ const ExploreSliderContextProvider = ({ children }) => {
 
   useEffect(() => {
     axios
-      .get("/public/place.json")
+      .get("/place.json")
       .then((response) => {
         setProducts(response.data);
       })
