@@ -1,8 +1,34 @@
-# React + Vite
+# WelcomeBD - Travel Website for Bangladesh
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![WelcomeBD Job Task](https://i.ibb.co/tqJZjvg/Screenshot-2023-10-31-at-12-04-01-AM.png)
 
-Currently, two official plugins are available:
+WelcomeBD is a beautiful travel website dedicated to exploring the natural and cultural beauty of Bangladesh. This project was developed using Tailwind CSS and ReactJS for the client side.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live website: [WelcomeBD Homepage](https://welcmbdhomepage.netlify.app/)
+
+## Features
+
+- Discover the breathtaking landscapes, historical sites, and vibrant culture of Bangladesh.
+- User-friendly interface and stunning visual design.
+- Explore various tourist destinations and plan your next trip.
+- Get in touch with our team for travel inquiries and assistance.
+
+## Technologies Used
+
+- [Tailwind CSS](https://tailwindcss.com/): A highly customizable CSS framework for building modern web designs.
+- [ReactJS](https://reactjs.org/): A JavaScript library for building user interfaces.
+
+## Install the project dependencies:
+```bash
+
+git clone https://github.com/afreul-joy/WELCOMEBD_JOB_TASK
+cd WELCOMEBD_JOB_TASK
+
+
+npm install
+
+npm run dev
+
+
+
+
